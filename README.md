@@ -8,7 +8,7 @@ Andrej Karpathy's invaluable resource, guiding the process of coding GPT from th
 
 ## Files
 
-- **input.txt**: This file includes the Shakespear work in a single file. serves as the input for training both the Bigram model and the GPT model.
+- **input.txt**: This file includes the Shakespear work in a single file. It serves as the input for training both the Bigram model and the GPT model.
 
 - **bigram.ipynb**: A Jupyter notebook that includes code for training a basic Bigram model. This model is a simple n-gram language model that can generate text.
 
