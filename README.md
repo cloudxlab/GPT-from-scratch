@@ -17,3 +17,7 @@ Andrej Karpathy's invaluable resource, guiding the process of coding GPT from th
 - **gpt_model_weights.h5**: Pre-trained weights for the GPT model after 5,000 iterations. You can use these weights to generate text using the implemented GPT model without going through the training process.
 
 - **more.txt**: This file includes additional text data so that you can train the gpt on more data.
+
+## Explanation of Code
+
+The code in this repository is thoroughly explained in the accompanying blog post. The blog provides detailed insights into the implementation of the Generative Pre-trained Transformer (GPT) model from scratch using TensorFlow and Keras:- [Building your own ChatGPT from scratch](https://cloudxlab.com/blog/building-your-own-chatgpt-from-scratch/).
